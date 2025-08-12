@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+.roboto-title {
+  font-family: "Google Sans Code", sans-serif;
+}
+.tangerine-regular {
+  font-family: "Tangerine", cursive;
+}
