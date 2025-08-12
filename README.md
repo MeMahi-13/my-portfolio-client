@@ -32,10 +32,10 @@ This is a static site with no external dependencies.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/MeMahi-13/My-Portfolio.git
+git clone https://github.com/MeMahi-13/my-portfolio-client.git
 
 # 2. Navigate to the project folder
-cd My-Portfolio
+cd my-portfolio
 
 # 3. Open the project in your default browser
 open index.html  # (or double-click the file)
