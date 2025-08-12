@@ -4,19 +4,20 @@
 A beautifully designed, responsive portfolio website built with HTML and CSS, showcasing my identity as a web developer, skills, and projects — all styled with clean typography and visual storytelling.
 
 **Live Project**  
-[View it here](https://mohima-chowdhury.vercel.app/)
+[https://mohima-chowdhury.vercel.app/]
 
 ---
 
 ## Technologies Used  
 - HTML5  
-- CSS3  
+- CSS3
+-Tailwind
+-ReactJS  
 
 ---
 
 ## Core Features  
 - Animated hero section introducing name and role with personality  
-- “What I Do” section outlining design and development strengths  
 - Skills cards visualizing technical expertise  
 - “My Projects” showcase featuring images and concise descriptions  
 
