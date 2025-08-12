@@ -1,12 +1,40 @@
-# React + Vite
+# Mohima Chowdhury — Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Description**  
+A beautifully designed, responsive portfolio website built with HTML and CSS, showcasing my identity as a web developer, skills, and projects — all styled with clean typography and visual storytelling.
 
-Currently, two official plugins are available:
+**Live Project**  
+[View it here](https://mohima-chowdhury.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## Technologies Used  
+- HTML5  
+- CSS3  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Core Features  
+- Animated hero section introducing name and role with personality  
+- “What I Do” section outlining design and development strengths  
+- Skills cards visualizing technical expertise  
+- “My Projects” showcase featuring images and concise descriptions  
+
+---
+
+## Dependencies  
+This is a static site with no external dependencies.
+
+---
+
+## Getting Started
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/MeMahi-13/My-Portfolio.git
+
+# 2. Navigate to the project folder
+cd My-Portfolio
+
+# 3. Open the project in your default browser
+open index.html  # (or double-click the file)
