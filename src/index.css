@@ -6,3 +6,9 @@
 .tangerine-regular {
   font-family: "Tangerine", cursive;
 }
+@layer base {
+  html {
+    scroll-padding-top: 100px; /* or height of your navbar */
+    scroll-behavior: smooth;
+  }
+}

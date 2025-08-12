@@ -8,7 +8,7 @@ const Banner = () => {
         setSlideIn(true);
       }, []);
   return (
-    <div className="bg-[#DBE6F5] max-w-screen max-h-screen">
+    <div id="home" className="bg-[#DBE6F5]  max-w-screen max-h-screen">
       {/* Grid Layout */}
       <div className="grid grid-cols-3 items-center px-4">
         <img

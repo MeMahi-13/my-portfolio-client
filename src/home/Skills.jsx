@@ -35,7 +35,7 @@ const Skills = () => {
 
   return (
     <div>
-      <h1 className="text-center text-3xl pt-20 p-3 font-bold">What I know</h1>
+      <h1 className="text-center text-3xl pt-20 p-8 font-semibold">Technologies I Work With</h1>
       <div className="max-w-5xl mx-auto grid grid-cols-2 md:grid-cols-4 gap-8 px-4">
         {skills.map((skill, index) => (
           <SkillItem key={index} skill={skill} />

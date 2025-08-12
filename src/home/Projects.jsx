@@ -40,9 +40,9 @@ const Projects = () => {
   const [selectedProject, setSelectedProject] = useState(null);
 
   return (
-   <div className="bg-gray-100">
+   <div id="projects" className="bg-gray-100">
      <div className="max-w-7xl mx-auto p-8 my-20">
-      <h1 className="text-4xl font-semibold text-center mb-12">Projects</h1>
+      <h1 className="text-3xl font-semibold text-center mb-12">Projects</h1>
 
       <div className="flex flex-wrap gap-10 justify-center">
         {projectData.map((project, idx) => (

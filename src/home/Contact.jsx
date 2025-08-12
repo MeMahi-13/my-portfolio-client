@@ -1,6 +1,6 @@
 const Contact = () => {
   return (
-    <div className="max-w-2xl my-10 mx-auto p-8 rounded-lg shadow-md"
+    <div id="contact" className="max-w-2xl my-10 mx-auto p-8 rounded-lg shadow-md"
       style={{
         background: 'linear-gradient(135deg, #C0F0EA 0%, #E8A0E4 100%)'
       }}
@@ -34,12 +34,12 @@ const Contact = () => {
         <p>
           🌐{" "}
           <a
-            href="https://yourwebsite.com"
+            href="https://mohima-chowdhury.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-blue-600 hover:underline"
           >
-            yourwebsite.com
+            https://mohima-chowdhury.vercel.app/
           </a>
         </p>
 
