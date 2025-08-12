@@ -11,8 +11,8 @@ A beautifully designed, responsive portfolio website built with HTML and CSS, sh
 ## Technologies Used  
 - HTML5  
 - CSS3
--Tailwind
--ReactJS  
+- Tailwind
+- ReactJS  
 
 ---
 
